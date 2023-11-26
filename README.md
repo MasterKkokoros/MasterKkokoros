@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MasterKkokoros
+- 👀 I’m interested in creating console game
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me on discord
